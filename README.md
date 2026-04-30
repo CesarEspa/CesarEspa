@@ -1,14 +1,12 @@
 <div align="center">
-   <!-- Imagen principal delgada (height=80) -->
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true" />
+   <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true" />
 </div>
 
 <p align="center">
-  <!-- Imagen de código grande (width=280) -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
-<h1 align="center">Hola 👋, soy Cesar Libardo España Salguero</h1>
+<h1 align="center">Hola 👋, soy César Libardo España Salguero</h1>
 <h2 align="center">Ingeniero de Sistemas | Científico de Datos | Desarrollador Full Stack</h2>
 
 <p align="center">
@@ -19,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Enfoque-Ciencia%20de%20Datos%20%26%20IA-blue" />
-  <!-- Tarjetica con el separador | agregado -->
   <img src="https://img.shields.io/badge/FullStack-Java%20%7C%20Springboot-orange" />
   <img src="https://img.shields.io/badge/Datos-Python%20%7C%20PowerBI-success" />
   <img src="https://img.shields.io/badge/País-Colombia-green" />
@@ -32,11 +29,12 @@
 <img align="right" width="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 *   💻 **Ingeniero de Sistemas** orientado a transformar datos en *insights* estratégicos.
-*   🎓 **Maestría en Inteligencia Artificial** y **Máster en IA & Data Science**[cite: 1].
-*   📊 **Científico de Datos Freelance**: Experiencia reduciendo en más del 40% el tiempo de generación de reportes mediante automatización[cite: 1].
-*   ☕ **Desarrollador Full Stack**: Especialista en Java, Spring Boot y .NET para aplicaciones web completas[cite: 1].
-*   🔥 Apasionado por el **Machine Learning** y la integración de hardware con **Arduino**[cite: 1].
+*   🎓 **Maestría en Inteligencia Artificial** y **Máster en IA & Data Science**.
+*   📊 **Científico de Datos Freelance**: Experiencia reduciendo en más del 40% el tiempo de reporte mediante automatización.
+*   ☕ **Desarrollador Full Stack**: Especialista en **Java | Spring Boot** y **.NET** para aplicaciones web completas.
+*   🔥 Apasionado por el **Machine Learning** y la integración de hardware con **Arduino**.
 *   ✨ Siempre busco aprender algo nuevo y dejar que el cerebro lo procese durante el descanso.
+*   📖 **Idioma**: Español(NATIVO), Ingles(B1)
 
 ---
 
@@ -73,9 +71,9 @@
 ## 📌 Proyectos Destacados
 
 ### **Análisis de Datos Pruebas ICFES (Saber Pro)**
-*   🧹 **ETL:** Limpieza y transformación de datos utilizando **Python (Pandas)** para garantizar la calidad del análisis[cite: 1].
-*   📈 **Visualización:** Dashboards interactivos en **Power BI** para analizar el rendimiento por regiones y detectar tendencias educativas[cite: 1].
-*   🎯 **Impacto:** Identificación de patrones clave para el soporte a la toma de decisiones institucionales[cite: 1].
+*   🧹 **ETL:** Limpieza y transformación de datos utilizando **Python (Pandas)**.
+*   📈 **Visualización:** Dashboards interactivos en **Power BI** para analizar el rendimiento regional.
+*   🎯 **Impacto:** Identificación de patrones clave para el soporte a la toma de decisiones institucionales.
 
 ---
 
