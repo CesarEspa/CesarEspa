@@ -1,24 +1,27 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+   <!-- Imagen principal delgada (height=80) -->
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180"/>
+  <!-- Imagen de código grande (width=280) -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
 </p>
 
-<h1 align="center">Hola 👋, soy Cesar Libardo España</h1>
-<h3 align="center">Systems Engineer | Full Stack Developer | Data Scientist</h3>
+<h1 align="center">Hola 👋, soy Cesar Libardo España Salguero</h1>
+<h2 align="center">Ingeniero de Sistemas | Científico de Datos | Desarrollador Full Stack</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=440&height=45&lines=Ciencia+de+Datos;Machine+Learning;Inteligencia+Artificial;Full+Stack+Java;Construyendo+soluciones+con+datos" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Científico+de+Datos;Machine+Learning;Inteligencia+Artificial;Full+Stack+Java+Springboot;Transformando+datos+en+decisiones" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enfoque-Data%20Science%20%26%20IA-blue" />
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20SpringBoot-orange" />
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20PowerBI-success" />
+  <img src="https://img.shields.io/badge/Enfoque-Ciencia%20de%20Datos%20%26%20IA-blue" />
+  <!-- Tarjetica con el separador | agregado -->
+  <img src="https://img.shields.io/badge/FullStack-Java%20%7C%20Springboot-orange" />
+  <img src="https://img.shields.io/badge/Datos-Python%20%7C%20PowerBI-success" />
   <img src="https://img.shields.io/badge/País-Colombia-green" />
 </p>
 
@@ -26,20 +29,21 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" width="180" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
+<img align="right" width="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-*   💻 **Ingeniero de Sistemas** especializado en desarrollo Full Stack y Ciencia de Datos.
-*   🎓 **Estudiante de Maestría en Inteligencia Artificial**.
-*   📊 Experto en **análisis de datos y visualización** con herramientas como Power BI y DAX.
-*   ☕ Desarrollador con sólida experiencia en **Java, Spring Boot y bases de datos**.
-*   🔥 Apasionado por la integración de hardware y software mediante **proyectos con Arduino**.
+*   💻 **Ingeniero de Sistemas** orientado a transformar datos en *insights* estratégicos.
+*   🎓 **Maestría en Inteligencia Artificial** y **Máster en IA & Data Science**[cite: 1].
+*   📊 **Científico de Datos Freelance**: Experiencia reduciendo en más del 40% el tiempo de generación de reportes mediante automatización[cite: 1].
+*   ☕ **Desarrollador Full Stack**: Especialista en Java, Spring Boot y .NET para aplicaciones web completas[cite: 1].
+*   🔥 Apasionado por el **Machine Learning** y la integración de hardware con **Arduino**[cite: 1].
+*   ✨ Siempre busco aprender algo nuevo y dejar que el cerebro lo procese durante el descanso.
 
 ---
 
 ## ⚙️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgres,js,dotnet,git,vscode,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,postgres,js,dotnet,git,vscode,docker,arduino,figma" />
 </p>
 
 <p align="center">
@@ -52,7 +56,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-### 💳 Profile Summary Card
+### 💳 Tarjeta de Resumen
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CesarEspa&theme=github_dark" />
 </div>
@@ -60,11 +64,22 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CesarEspa&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarEspa&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
-### 📈 Gráfico de Actividad
+---
+
+## 📌 Proyectos Destacados
+
+### **Análisis de Datos Pruebas ICFES (Saber Pro)**
+*   🧹 **ETL:** Limpieza y transformación de datos utilizando **Python (Pandas)** para garantizar la calidad del análisis[cite: 1].
+*   📈 **Visualización:** Dashboards interactivos en **Power BI** para analizar el rendimiento por regiones y detectar tendencias educativas[cite: 1].
+*   🎯 **Impacto:** Identificación de patrones clave para el soporte a la toma de decisiones institucionales[cite: 1].
+
+---
+
+## 📈 Actividad
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CesarEspa&theme=react-dark" />
 </p>
@@ -75,14 +90,19 @@
 
 ---
 
-## 📌 Proyecto Destacado: Análisis ICFES
-*   📊 **Dashboard Interactivo:** Análisis detallado del rendimiento académico por regiones utilizando Power BI.
-*   🧠 **Insights:** Identificación de patrones educativos mediante el procesamiento de grandes volúmenes de datos.
+## 🏆 Trofeos de Perfil
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CesarEspa&theme=juicyfresh&no-bg=true" />
+</div>
 
 ---
 
+## 🔗 Contacto
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4F8A/giphy.gif" width="60"/>
-  <br>
+<a href="mailto:cesarespana.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cesar-libardo-espana-salguero-analista-de-datos-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <b>"Convertir datos en decisiones."</b>
 </p>
